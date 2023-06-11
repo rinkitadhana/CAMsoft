@@ -585,3 +585,7 @@
 .footer .copyright a {
     color: var(--light);
 }
+
+.logo{
+    height: 300px;
+}
