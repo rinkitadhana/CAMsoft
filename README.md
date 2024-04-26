@@ -14,8 +14,8 @@ Transform your home into a fortress of security and comfort with our e-surveilla
 - Timely Incident Detection
 - Rapid Emergency Response
 
-## What we Provide
-- 24*7 Survillence
+## What We Provide
+- 24*7 Surveillance
 - Full control over Cameras through Our application
 - Rapid Emergency Response
 
